@@ -18,3 +18,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+![](src/assets/img/screenshot.png)
